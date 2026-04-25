@@ -7,17 +7,15 @@ Analyze e-commerce data to understand sales performance, customer behavior, and 
 
 ## 🛠 Tools Used
 - SQL (MySQL)
-- Tableau
-- Power BI
 - Excel
-
+- Tableau
+  
 ---
 
 ## 📊 Analysis Performed
-- Sales trend analysis
-- Customer behavior insights
-- Product category performance
-- Revenue and order analysis
+- Data extraction and transformation using SQL
+- Data preparation and validation in Excel
+- Interactive dashboard creation in Tableau
 
 ---
 
@@ -43,8 +41,8 @@ Analyze e-commerce data to understand sales performance, customer behavior, and 
 ## 📂 Project Structure
 
 scripts/ → SQL queries  
-reports/ → dashboards and reports  
-dashboards/ → screenshots  
+reports/ → Tableau dashboard and Excel analysis  
+dashboards/ → dashboard screenshots  
 data/ → dataset  
 
 ---
