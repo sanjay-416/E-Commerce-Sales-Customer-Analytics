@@ -28,7 +28,9 @@ Analyze e-commerce data to understand sales performance, customer behavior, and 
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboards/olist_dashboard.png)
+![Dashboard](Dashboards/OLIST_Tableau_Dashboard.png)
+
+![Dashboard](Dashboards/OLIST_Excel_Dashboard.png)
 
 ---
 
