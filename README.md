@@ -30,13 +30,13 @@ Analyze e-commerce data to understand sales performance, customer behavior, and 
 
 ![Dashboard](Dashboards/OLIST_Tableau_Dashboard.png)
 
-![Dashboard](Dashboards/OLIST_Excel_Dashboard.png)
-
 ## 📊 Excel Dashboard
 
 The Excel dashboard file is large and not included in this repository.
 
 🔗 [View / Download Excel Dashboard](https://drive.google.com/drive/folders/1ASKjXY0aIhwxG9EmBKke98l8hK7st_QT?usp=drive_link)
+
+![Dashboard](Dashboards/OLIST_Excel_Dashboard.png)
 
 ---
 
