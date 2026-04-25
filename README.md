@@ -38,20 +38,13 @@ The Excel dashboard file is large and not included in this repository.
 
 ![Dashboard](Dashboards/OLIST_Excel_Dashboard.png)
 
----
-
-## 📁 Dataset
-
-🔗 [Download Dataset](YOUR_GOOGLE_DRIVE_LINK)
-
----
+--
 
 ## 📂 Project Structure
 
 scripts/ → SQL queries  
 reports/ → Tableau dashboard and Excel analysis  
 dashboards/ → dashboard screenshots  
-data/ → dataset  
 
 ---
 
